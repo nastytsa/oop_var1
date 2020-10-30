@@ -7,6 +7,6 @@ public class CD extends Removable{
     @Override
     public final void getType() {
         super.getType();
-        System.out.println(": compact disk");
+        System.out.println(": compact disc");
     }
 }
